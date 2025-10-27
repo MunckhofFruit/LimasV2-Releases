@@ -6,19 +6,19 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Limas
-Date: Mon, 27 Oct 2025 13:05:27 +0000
+Date: Mon, 27 Oct 2025 13:42:48 +0000
 MD5Sum:
- 84afd81c301bce317483e94d00b4da55 1962 InRelease
- 82188111db3d6a9015173966215efea5 2841 main/binary-amd64/Packages
- 4335c2dde0813c8224beb27c1152b7a3 1067 main/binary-amd64/Packages.gz
- ee0f991fc07eea8804f62c0a3359dc75 858 Release.gpg
+ c0fb6a4b07df5278950aa728fb6e8449 1962 InRelease
+ cde9607cb182a39aae3f1606b088b343 5682 main/binary-amd64/Packages
+ 2204f83e1fc2b40e2230bd641509d973 1405 main/binary-amd64/Packages.gz
+ cb7a9c1fd0ce3d8f185176b1adb07cc6 858 Release.gpg
 SHA1:
- f0ea8beaef6ac07632113871e9c53b0c139fb303 1962 InRelease
- 2a5ba134e069a6a9e384e2d2cd2b8bdd14346f29 2841 main/binary-amd64/Packages
- 1694c495b0c8403840fe0dba75df8a5e21584633 1067 main/binary-amd64/Packages.gz
- 1c1ced304c4ac9ba9b750f57ee0b3edee3fbe616 858 Release.gpg
+ 8157034e125a9b58728b096259191801e4df7859 1962 InRelease
+ 6bb09f471079f0a18ce7f0b9f03ea1fb556c28ae 5682 main/binary-amd64/Packages
+ ea885864f1819145efa0ac1127396d40c73ada1a 1405 main/binary-amd64/Packages.gz
+ d303d346cda8ad99a73154e6bf3c094ba5472e08 858 Release.gpg
 SHA256:
- 09592af98c3f83eb6b71c851fa9b2a24ff29e3c74350ec55cd372367b916138c 1962 InRelease
- 11fbae66aee4505f18acc8bde586bbf7cab8a1bb7b4b7e017b902b2a69e4fa2f 2841 main/binary-amd64/Packages
- dfe6d3ef852a7babe70ba0c9ea4cb7834d50ba2e50657686f3a9a9ef4759c4df 1067 main/binary-amd64/Packages.gz
- c0e637e134e5e70579d467570607c855b1779ac2219f8afe41a13d2afb5ebd1a 858 Release.gpg
+ 8e3efd71d802d84a88188e4d88d4db5d6ccfafba768bfd90a1ed8c1888fa708e 1962 InRelease
+ cbe81676c16c3f82d8b12f13757d7724df0fb5368139cd0bb8264a3c060dd713 5682 main/binary-amd64/Packages
+ b39c3866962ff649818dfb33209f97233abc565e5849a4780fb3ef5047834d35 1405 main/binary-amd64/Packages.gz
+ af3a854d7d815ddca3d27f749830dbf7bb6b51cafd243b0ebde08c55b7b44a25 858 Release.gpg

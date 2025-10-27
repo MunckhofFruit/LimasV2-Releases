@@ -11,7 +11,7 @@
 - Update the `Packages` file
     ```sh
     pushd apt-repo
-    dpkg-scanpackages --arch amd64 pool/ > dists/noble/main/binary-amd64/Packages
+    dpkg-scanpackages --multiversion --arch amd64 pool/ > dists/noble/main/binary-amd64/Packages
     cat dists/noble/main/binary-amd64/Packages | gzip -9 > dists/noble/main/binary-amd64/Packages.gz
     popd
     ```
