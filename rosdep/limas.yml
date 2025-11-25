@@ -9,3 +9,7 @@ pf_description:
 pf_driver:
   ubuntu:
     noble: [ros-jazzy-pf-driver]
+
+limas:
+  ubuntu:
+    noble: [ros-jazzy-limas]
