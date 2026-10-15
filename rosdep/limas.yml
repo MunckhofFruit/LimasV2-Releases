@@ -21,3 +21,7 @@ lslidar_msgs:
 lslidar_driver:
   ubuntu:
     noble: [ros-jazzy-lslidar-driver]
+
+lslidar_ch_driver:
+  ubuntu:
+    noble: [ros-jazzy-lslidar-ch-driver]
