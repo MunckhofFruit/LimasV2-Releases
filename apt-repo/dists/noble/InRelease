@@ -9,36 +9,36 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Limas
-Date: Thu, 15 Oct 2026 09:41:54 +0000
+Date: Mon, 19 Oct 2026 08:03:51 +0000
 MD5Sum:
- a5797aace5a048fc27674c5a8ed38e34 1965 InRelease
- 8723309a65963f30d1b65b1ec4ab5198 19001 main/binary-amd64/Packages
- 6cd2d91a501489fea2aae1b74b780b91 3192 main/binary-amd64/Packages.gz
- 0e2d0a32334b614b6b7757317a529c7d 858 Release.gpg
+ e19ca14375e509a2a26797595f6e82b1 1965 InRelease
+ bbedfe4967018340bea4604cee89039c 20302 main/binary-amd64/Packages
+ 1029091848ae15a6872286fbd4e8d94f 3314 main/binary-amd64/Packages.gz
+ 007aa35bda0e365aa34ec221873c5e3c 858 Release.gpg
 SHA1:
- 4c999adb627b126d244e3210c7e1769b20054268 1965 InRelease
- 03e58b0ac734b06217355c4fb1666ef4327a4baf 19001 main/binary-amd64/Packages
- c6cd49c71e0678b76cc07762aca1086e6e8858b5 3192 main/binary-amd64/Packages.gz
- a4a69b93a8c54c94a708e8897eb2bff33f2efba2 858 Release.gpg
+ d498a5573e2658a911ef86cc7c78eff1b78e6307 1965 InRelease
+ ed4a3ff7697af0fdd32d641726f2cf290ac2e9b5 20302 main/binary-amd64/Packages
+ 8d1027f1efc3000c39c87d38d9114be46bf1de07 3314 main/binary-amd64/Packages.gz
+ 17e30ddbf77d24e04baf5d6967495bcf944866b5 858 Release.gpg
 SHA256:
- 7e9f4273cc5ddf9001ba47c789be3284bb84191ac9ad305f9703804b145541dc 1965 InRelease
- de6ea67ef07f1902568c3f9f8ac7527b698555e280af24b45d5fc19c642cb21b 19001 main/binary-amd64/Packages
- 7228315abedb4ee4909c380af4151565f4408f7139d8d65d167e380b65d1aaf2 3192 main/binary-amd64/Packages.gz
- 13cc690d8e2694fcf489415698ebce1ec1f31e5fbca74e6cff5bada610b91d9f 858 Release.gpg
+ ad22ff919e3493a6eaecc2dd59005bb421c63f598b8d5087d50642aae858936a 1965 InRelease
+ 504ec7e4069e7635f5c59e7254592b4e81236b09e11b1f3dcfcbed29c17ec5f3 20302 main/binary-amd64/Packages
+ dc09becb8fd54bd334a565d9bdb15d3f5faa613bbb884aa965724ac5b184ab3d 3314 main/binary-amd64/Packages.gz
+ f280cfa1d9f166aafb693c92cec808f3be454745fca72adc7adbb5b6034d73c7 858 Release.gpg
 -----BEGIN PGP SIGNATURE-----
 
-iQJGBAEBCgAwFiEEuf/H95Gu1rNTCx4VBfYISHCaO+MFAmrQn+QSHGluZm9AbXVu
-Y2tob2Yub3JnAAoJEAX2CEhwmjvjaioP/i+t+dFEbRtvvVbVkChRTqSVJNfTPYe4
-vGTTDXnUWa9JYhzzvGKK4xnTDZyam+HWNgnAZQTNyb00BDoeIWh5//8ocq3/H/W/
-Ru/SVW20gP8deowBve/8I3T7zVo+KMrFgtE7aKlICltBtFhNudDIRtbClugZlyWQ
-sSk2ZnXHjffiotdmh1N9MJX4TgWKZruUaMCWERl/6AkUpCwcR8nwZScmmQkeLpwx
-c4lcSOmhN803mI3yl4tCxYmWtbcIWTa45F0njL8X1okAMngBB+o/611SlvEiGGaL
-vmcRdo3H1t3OD3ZcqcBxqstDXAxfl97NIPUxrn4fS7nDys34l1AUmzze08WKI43o
-hktEY+3ycABq4qjF0flPFu3yzGTMhkQu5zoPpLfV/XGcUeMTwuJwd9jyPIqZIg7H
-5UdAmVWJSZGYq4YVpJn0OZ/urJvn95l2oY9xtCMUAzRxISG14JY+zeH0KXBv+zsQ
-X7KXkTBUOqUtXqS0oD+L1DaRHwgDaw3488QmCaEEvggO0rlmDcb7/UXVFzIjG2kX
-pgxMdXsqpxWXxXhirOgkcsMDovKxbuFA7glmKRKvvk93pjXHNoGbsTb+t477xSW5
-KdX6DUexlcs2T/P3sySKgUQwttiAiXw7XX+eRS1HmvNlEQspLUVW8K+AE2qE6EwR
-uhLY1Jxf7+0E
-=n+3M
+iQJGBAEBCgAwFiEEuf/H95Gu1rNTCx4VBfYISHCaO+MFAmrVzukSHGluZm9AbXVu
+Y2tob2Yub3JnAAoJEAX2CEhwmjvjE5QP/367ZCiDpU4vcUU5S+OfQHI676I89m+5
+wSt47PqPCsYubHmKYxBGoKiOK8+P17SVSBcFX5hRpfVfmBn2Au9GCt5/OVEE40wm
+u7p7y/TyXe+LoZABZb5Uwc/5elyYFshQs7kXivfb5w+XCKNtMQX/m/pmlldH/1lM
+gfP+JSm9z6jNTxPGtqk92nFqZ6My9pzbNDCkDZXY/klMOMwETW6HY5QuV0Zd8YPi
+9bEZnYvkC1Hp6FufuxDAGvvAIcttL5n4CJyQ76/kMnzXLImORRa2QxRNH1TSi0zj
++wWb9pzD6mgHFeK5hqAl5I1cvl2Is2WHV9P/BwCTmEqCslzIRyVLnUIZdPloh2cf
+FUALTkPLSzPclqoVaTRmNHXxMSCJm2NENalvqvJwwPUSQyLuEUlV3uxEySfemuPC
+Gok9ErHqwDegqExS6tDo9bTAfxXvBIXwVWzJHyeHCBRzTviq1sHOJQmf1fZIoBFr
+jyh7Jb85q7fc6ayJ8SdR3DCzJ7o1hv2YP/+jX3KAu7hDAAaTAKKsOX6tcwfMilV9
+zxqY0irSUTBxkU10ho2OSr2huFHGwtVHI9NdDjgKg3fQ5W+EapKi+qgN4jOjhuvi
+g8ICuXVgqK8S8Guk2qgv8GfXU5EX3bhcBzkJWyLeAN8o0Lqq2RJ2JETfrw2Guhvj
+zAeTfosmxERL
+=UKQG
 -----END PGP SIGNATURE-----

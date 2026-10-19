@@ -14,6 +14,22 @@ Priority: optional
 Homepage: https://index.ros.org/p/lslidar_ch_driver/#jazzy
 Description: ROS device driver for C32 lidar
 
+Package: ros-jazzy-lslidar-ch-driver
+Version: 1.0.4-0noble
+Architecture: amd64
+Maintainer: "tongsky" <tongsky723@sina.com>
+Installed-Size: 3825
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libpcap0.8t64 (>= 1.0.0), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), ros-jazzy-fastcdr, libpcap0.8-dev, libpcl-apps1.14, libpcl-common1.14, libpcl-features1.14, libpcl-filters1.14, libpcl-io1.14, libpcl-kdtree1.14, libpcl-keypoints1.14, libpcl-ml1.14, libpcl-octree1.14, libpcl-outofcore1.14, libpcl-people1.14, libpcl-recognition1.14, libpcl-registration1.14, libpcl-sample-consensus1.14, libpcl-search1.14, libpcl-segmentation1.14, libpcl-stereo1.14, libpcl-surface1.14, libpcl-tracking1.14, libpcl-visualization1.14, ros-jazzy-angles, ros-jazzy-pcl-conversions, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclpy, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs
+Filename: pool/main/r/ros-jazzy-lslidar/ros-jazzy-lslidar-ch-driver_1.0.4-0noble_amd64.deb
+Size: 381482
+MD5sum: ed1c63af0f00aee948bc24f3769ff69b
+SHA1: 22c760b1e43f06d5763f7a37c5b7c3fbb16c948c
+SHA256: 53530759b040b4a2d5dea1cd402b072e30b733bf8573b6f011879527061a87b8
+Section: misc
+Priority: optional
+Homepage: https://index.ros.org/p/lslidar_ch_driver/#jazzy
+Description: ROS device driver for C32 lidar
+
 Package: ros-jazzy-lslidar-driver
 Version: 5.2.0-0noble
 Architecture: amd64
